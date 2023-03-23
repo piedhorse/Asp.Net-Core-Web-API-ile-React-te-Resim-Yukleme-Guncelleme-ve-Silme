@@ -15,6 +15,7 @@ Client tarafı uygulamasını Reactjs'de oluşturduk. bunun içinde resim yükle
 ## Kullanılan Teknolojiler
 
 **Araclar:** VS Code, Visual Studio, SSMS, Postman
+
 **Client:** Reactjs
 
 **API:** Asp.Net Core WebAPI
