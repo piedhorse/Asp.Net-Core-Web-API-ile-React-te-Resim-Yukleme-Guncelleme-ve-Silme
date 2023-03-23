@@ -7,7 +7,7 @@ Client tarafı uygulamasını Reactjs'de oluşturduk. bunun içinde resim yükle
 
 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="150" height="150"/> </a>
-
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/96746943/226713262-6b077cda-e58f-4a57-b494-d9d951a2528b.jpg" width="50" height="50"/> </a>
 
 ## Kullanılan Teknolojiler
 
