@@ -11,6 +11,7 @@ Client tarafı uygulamasını Reactjs'de oluşturduk. bunun içinde resim yükle
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="150" height="150"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="150" height="150"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="150" height="150"/> </a>
 
 <img src="https://user-images.githubusercontent.com/96746943/227081730-e5f30599-b9fe-4d6b-b1f4-e16ee9f3ac5f.gif" width="900" height="500">
+
 ## Kullanılan Teknolojiler
 
 **Araclar:** VS Code, Visual Studio, SSMS, Postman
